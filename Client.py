@@ -6,7 +6,7 @@ import socket, threading, sys, traceback, os
 from RtpPacket import RtpPacket
 
 CACHE_FILE_NAME = "cache-"
-CACHE_FILE_EXT = ".jpg"
+CACHE_FILE_EXT = ".png"
 
 class Client:
 	INIT = 0
