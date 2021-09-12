@@ -9,7 +9,6 @@ class ServerWorker:
 	PLAY = 'PLAY'
 	PAUSE = 'PAUSE'
 	TEARDOWN = 'TEARDOWN'
-	CONTINUE = 'CONT'
 	
 	INIT = 0
 	READY = 1
